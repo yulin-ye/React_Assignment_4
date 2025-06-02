@@ -1,0 +1,11 @@
+.lecturer-card {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 500px;
+  height: 300px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=LecturerCard.css.map */
